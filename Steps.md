@@ -1,4 +1,8 @@
 This is what i did. Please let me know if there's a more elegant way to do this.
+
+**My Pre-conditions**
+- it has to be headless setup
+- Unstable internet, so it has to run on its own 
 <br>
 <br>
 <br>
