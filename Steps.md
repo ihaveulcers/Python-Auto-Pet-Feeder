@@ -1,11 +1,11 @@
 This is what i did. Please let me know if there's a more elegant way to do this.
-
+<br>
+<br>
+<br>
 **My Pre-conditions**
 - it has to be headless setup
 - Unstable internet, so it has to run on its own 
-<br>
-<br>
-<br>
+
 **Hardware**
 - Raspberry Pi Model B (rev1)
 - Raspberry Pi AC power supply
